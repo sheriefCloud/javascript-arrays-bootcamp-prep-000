@@ -7,4 +7,3 @@ var addElementToBeginningOfArray = function (array1,elementAdd) {
   array1.unshift (elementAdd)
   return array1
 }
-
